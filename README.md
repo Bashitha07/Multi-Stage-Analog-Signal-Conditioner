@@ -24,25 +24,3 @@ This project implements a multi-stage analog filter and amplifier to:
 ├── Group No. 04 - AE - Final Assignment Report.pdf  # Detailed design & calculations report
 └── README.md                                    # Project documentation
 ```
-
-## Files of interest
-
-- AE_Final.pdsprj — open with Proteus to run simulations and inspect the circuit.
-- Group No. 04 - AE - Final Assignment Report.pdf — contains the design rationale, calculations, and results.
-- AE Photos/ — images of the circuit layout and experimental setup.
-
-## How to use
-
-1. Open `AE_Final.pdsprj` in Proteus to view and run the circuit simulation.
-2. Review the assignment report for component values, filter design, and analysis.
-3. Refer to the photos in `AE Photos/` for wiring and build references.
-
-## Notes
-
-- The circuit is designed for audio-frequency signal conditioning within the specified passband; component tolerances and PCB layout can affect performance.
-- If you want additional documentation (schematics exported as PNG/SVG, BOM, or simulation screenshots), I can add them.
-
-## Contributors
-
-- B.A.Sellapperuma
-- L.P.Jayasinghe
