@@ -46,7 +46,3 @@ This project implements a multi-stage analog filter and amplifier to:
 
 - B.A.Sellapperuma
 - L.P.Jayasinghe
-
-## License
-
-Specify a license for this repository if you want others to reuse the design (e.g., MIT, CC-BY). If you want, I can add a recommended license file.
