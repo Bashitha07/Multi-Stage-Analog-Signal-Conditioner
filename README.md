@@ -24,3 +24,15 @@ This project implements a multi-stage analog filter and amplifier to:
 ├── Group No. 04 - AE - Final Assignment Report.pdf  # Detailed design & calculations report
 └── README.md                                    # Project documentation
 ```
+
+## 👥 Project Team
+
+**Module:** IE2034 – Analog Electronics  
+**Academic Year:** Year 2, Semester 2  
+**Institution:** Sri Lanka Institute of Information Technology (SLIIT)  
+**Group:** 04
+
+| Student | Student ID |
+|---|---|
+| Sellapperuma B.A. | IT24103485 |
+| Jayasinghe L.P. | IT24100888 |
